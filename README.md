@@ -3,7 +3,6 @@
 
 https://almeida-cma.github.io/receber/  
 
-Exemplos de Questões:
-https://forms.gle/XygNe23GiSEHYdrK8
+Exemplo: MONTANDO O RACK PARA A REDE WI-FI DA MANSÃO CONECTADA
 
-Outro exemplo de questões: https://forms.gle/UDdhGBAuFRAkrBD18
+https://youtu.be/-AFb8bePYTY?list=PL2ZYNThi8yCto7QrdJ-sfhBM5NjQ0uA7l
